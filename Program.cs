@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("joana careca");
+﻿Console.WriteLine("olá usuario, me chamo lucas");
